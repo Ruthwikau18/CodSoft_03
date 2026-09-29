@@ -1,0 +1,37 @@
+Order Date,Product,Category,Region,Segment,Quantity,Sales,Profit
+2025-01-05,Laptop Pro,Electronics,North,Enterprise,3,3600,720
+2025-01-12,Wireless Mouse,Accessories,South,Consumer,15,750,225
+2025-01-20,Office Chair,Furniture,West,Corporate,6,1800,360
+2025-02-03,Mechanical Keyboard,Accessories,East,Consumer,10,1200,360
+2025-02-14,Monitor 24,Electronics,South,Enterprise,8,2000,400
+2025-02-25,Desk,Furniture,North,Corporate,5,1500,300
+2025-03-02,Laptop Pro,Electronics,West,Enterprise,4,4800,960
+2025-03-15,Wireless Mouse,Accessories,East,Consumer,20,1000,300
+2025-03-27,Office Chair,Furniture,South,Corporate,9,2700,540
+2025-04-06,Mechanical Keyboard,Accessories,North,Consumer,14,1680,504
+2025-04-18,Monitor 24,Electronics,West,Enterprise,10,2500,500
+2025-04-29,Desk,Furniture,East,Corporate,7,2100,420
+2025-05-04,Laptop Pro,Electronics,South,Enterprise,6,7200,1440
+2025-05-16,Wireless Mouse,Accessories,North,Consumer,25,1250,375
+2025-05-28,Office Chair,Furniture,West,Corporate,12,3600,720
+2025-06-07,Mechanical Keyboard,Accessories,South,Consumer,18,2160,648
+2025-06-19,Monitor 24,Electronics,East,Enterprise,12,3000,600
+2025-06-30,Desk,Furniture,North,Corporate,8,2400,480
+2025-07-05,Laptop Pro,Electronics,East,Enterprise,5,6000,1200
+2025-07-17,Wireless Mouse,Accessories,West,Consumer,30,1500,450
+2025-07-26,Office Chair,Furniture,North,Corporate,10,3000,600
+2025-08-08,Mechanical Keyboard,Accessories,East,Consumer,16,1920,576
+2025-08-20,Monitor 24,Electronics,South,Enterprise,15,3750,750
+2025-08-31,Desk,Furniture,West,Corporate,9,2700,540
+2025-09-06,Laptop Pro,Electronics,North,Enterprise,7,8400,1680
+2025-09-18,Wireless Mouse,Accessories,South,Consumer,22,1100,330
+2025-09-29,Office Chair,Furniture,East,Corporate,13,3900,780
+2025-10-05,Mechanical Keyboard,Accessories,West,Consumer,20,2400,720
+2025-10-16,Monitor 24,Electronics,North,Enterprise,14,3500,700
+2025-10-27,Desk,Furniture,South,Corporate,11,3300,660
+2025-11-04,Laptop Pro,Electronics,West,Enterprise,8,9600,1920
+2025-11-15,Wireless Mouse,Accessories,East,Consumer,28,1400,420
+2025-11-26,Office Chair,Furniture,South,Corporate,15,4500,900
+2025-12-06,Mechanical Keyboard,Accessories,North,Consumer,24,2880,864
+2025-12-18,Monitor 24,Electronics,East,Enterprise,16,4000,800
+2025-12-28,Desk,Furniture,West,Corporate,12,3600,720
